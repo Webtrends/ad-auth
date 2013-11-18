@@ -6,7 +6,7 @@ This cookbook provides authentication against a Microsoft Active Directory domai
 REQUIREMENTS
 ------------
 
-* Ubuntu 10.04
+* Ubuntu 10.04 / 12.04
 * Centos/RHEL 5/6
 * sudo cookbook
 * Likewise-open 6.1.0-2 from the Powerbroker Open site
