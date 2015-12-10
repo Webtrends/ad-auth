@@ -1,3 +1,6 @@
+## 1.0.7
+* General cleanup of the code
+
 ## 1.0.6
 * Add attribute check for setting hostnames with environment prepended for openstack using boolean attribute usenameprefix
 
